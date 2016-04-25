@@ -14,7 +14,8 @@
     <parent>
         <groupId>org.sakaiproject</groupId>
         <artifactId>master</artifactId>
-        <version>2.9-SNAPSHOT</version>
+        <!--<version>2.9-SNAPSHOT</version>-->
+        <version>10-SNAPSHOT</version>
         <relativePath>../master/pom.xml</relativePath>
     </parent>
 
