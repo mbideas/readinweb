@@ -4,7 +4,7 @@
 
     <groupId>br.unicamp.iel</groupId>
   <artifactId>readinweb</artifactId>
-  <version>4.0-SNAPSHOT</version>
+  <version>4.5.0_10-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Read in Web</name>
   <description>
@@ -26,14 +26,14 @@
       <dependency>
         <groupId>br.unicamp.iel</groupId>
         <artifactId>readinweb-api</artifactId>
-        <version>4.0-SNAPSHOT</version>
+        <version>4.5.0_10-SNAPSHOT</version>
         <scope>provided</scope>
       </dependency>
 
       <dependency>
         <groupId>br.unicamp.iel</groupId>
         <artifactId>readinweb-impl</artifactId>
-        <version>4.0-SNAPSHOT</version>
+        <version>4.5.0_10-SNAPSHOT</version>
         <scope>runtime</scope>
       </dependency>
 

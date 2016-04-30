@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>br.unicamp.iel</groupId>
 		<artifactId>readinweb</artifactId>
-		<version>4.0-SNAPSHOT</version><!--Readinweb.version -->
+		<version>4.5.0_10-SNAPSHOT</version><!--Readinweb.version -->
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
@@ -26,7 +26,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.opensymphony.quartz</groupId>
+            <groupId>org.quartz-scheduler</groupId>
 			<artifactId>quartz</artifactId>
 			<version>${sakai.quartz.version}</version>
 		</dependency>
